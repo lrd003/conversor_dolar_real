@@ -1,1 +1,3 @@
-# conversor_dolar_real
+# Conversor de Dola para Real
+__________________________________________________________
+Projeto criado na imersão da Alura
